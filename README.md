@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sbarkerclarke-phd 
 - I'm a postdoc at Cleveland Clinic Lerner Institute
-- 🌱 I’m interested in mathematical oncology and evolution
+- 🌱 I’m interested in mathematical oncology, evolution and topological analyses
+
 - 📫 How to reach me ... owens2@ccf.org
 
 <!---
