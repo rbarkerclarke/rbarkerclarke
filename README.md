@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sbarkerclarke-phd 
+- 👋 Hi, I’m Rowan
 - I'm a postdoc at Cleveland Clinic Lerner Institute
 - 🌱 I’m interested in mathematical oncology, evolution and topological analyses
 
