@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rowan ( http://rbarkerclarke.github.io )
-- I'm a postdoc in the Theory Division at Cleveland Clinic Lerner Institute working with Jacob Scott
+- I'm a postdoc at Cleveland Clinic Lerner Institute funded by the American Cancer Society. 
 - 🌱 I’m interested in mathematical oncology, evolution, and topological analyses for informatics data.
 - 🏳️‍⚧️🏳️‍🌈 I am a proud transgender and queer man (he/him)
 - 📫 How to reach me ... rowanbarkerclarke@gmail.com
